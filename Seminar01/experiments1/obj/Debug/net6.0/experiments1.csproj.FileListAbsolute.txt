@@ -1,0 +1,15 @@
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\bin\Debug\net6.0\experiments1.exe
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\bin\Debug\net6.0\experiments1.deps.json
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\bin\Debug\net6.0\experiments1.runtimeconfig.json
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\bin\Debug\net6.0\experiments1.dll
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\bin\Debug\net6.0\experiments1.pdb
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.csproj.AssemblyReference.cache
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.AssemblyInfoInputs.cache
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.AssemblyInfo.cs
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.csproj.CoreCompileInputs.cache
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.dll
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\refint\experiments1.dll
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.pdb
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\experiments1.genruntimeconfig.cache
+C:\Study_Dev\3_Prog_Languages\Seminars\Seminar01\experiments1\obj\Debug\net6.0\ref\experiments1.dll
