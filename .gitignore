@@ -6,6 +6,7 @@
 # MY SETTINGS, files not needed this time
 **/bin/
 **/obj/
+*.cache
 
 # User-specific files
 *.rsuser
