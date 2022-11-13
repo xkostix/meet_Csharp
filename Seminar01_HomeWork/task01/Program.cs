@@ -6,9 +6,7 @@
 int Prompt(string message)
 {
     Console.Write(message);
-    string strValue = Console.ReadLine();  // ?? "0" - don't work with empty string
-    if (strValue == "") strValue = "0";   // эта строка исключает ошибку
-    int value = int.Parse(strValue);
+    int value = Convert.ToInt32(Console.ReadLine());
     return (value);
 }
 
