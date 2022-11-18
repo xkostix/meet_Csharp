@@ -13,4 +13,3 @@ int n2 = n22 / 10;
 int n3 = n22 % 10;
 
 System.Console.WriteLine(n1 * 10 + n3);
-//System.Console.WriteLine(num=num/10+num%10);
